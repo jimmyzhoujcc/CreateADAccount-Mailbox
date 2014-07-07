@@ -2,7 +2,7 @@
 # AUTHOR  : Jimmy Zhou  - Adchina.com
 # Email   : jimmyzhou@gmail.com 
 # DATE    : 2-07-2014 
-# EDIT    : 5-04-2014
+# EDIT    : 5-07-2014
 # COMMENT : This script creates new Active Directory users 
 #           by HR excel worksheet,
 #           including different kind of properties, based
